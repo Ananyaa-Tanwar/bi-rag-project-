@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pandas
+faiss-cpu
+pypdf
+langchain
+langchain-openai
+streamlit
+python-dotenv
+pandas
+faiss-cpu
+pypdf
+langchain
+langchain-openai
